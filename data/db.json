@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "This is blog one and lorem ipsum dolor sit amet, consectetur adip This is blog one and lorem ipsum dolor sit amet, consectetur adip This is blog one and lorem ipsum dolor sit amet, consectetur adip This is blog one and lorem ipsum dolor sit amet, consectetur adip This is blog one and lorem ipsum dolor sit amet, consectetur adip This is blog one and lorem ipsum dolor sit amet, consectetur adip",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "My Second Blog",
+      "body": "This is blog 2 and  lorem ipsum dolor sit amet, consectetur adip This is blog one and lorem ipsum dolor sit amet, consectetur adip This is blog one and lorem ipsum dolor sit amet, consectetur adip This is blog one and lorem ipsum dolor sit amet, consectetur adip This is blog one and lorem ipsum dolor sit amet, consectetur adip This is blog one and lorem ipsum dolor sit amet, consectetur adiplorem ipsum dolor sit amet, consectetur adip",
+      "author": "anil",
+      "id": 2
+    },
+    {
+      "title": "test blog",
+      "body": "some xyz content",
+      "author": "anil",
+      "id": 3
+    },
+    {
+      "title": "hello",
+      "body": "new blog",
+      "author": "anil",
+      "id": 4
+    },
+    {
+      "title": "checking history",
+      "body": "aufghaufhoa",
+      "author": "mario",
+      "id": 5
+    }
+  ]
+}
